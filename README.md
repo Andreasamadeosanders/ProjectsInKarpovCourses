@@ -1,2 +1,2 @@
 # KarpovCourses
-Homework in Karpob Courses
+Homework in Karpov Courses
