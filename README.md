@@ -31,5 +31,5 @@ Hard skills: sklearn, scipy, pytorch, catboost, xgboost
 Hard skills: pytorch
 
 ### Statistics block
-1. Проводил АБ АА тесты
-2. Сравнивал алгоритмы машинного обучения используя статистические методы
+1. Conducted A/B and A/A tests
+2. Compared machine learning algorithms using statistical methods
